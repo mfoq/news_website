@@ -1,0 +1,22 @@
+:root {
+    --main-color:#d63030;
+}
+
+.active{
+    background-color: var(--main-color) !important;
+    border-radius: 5px;
+}
+
+.active:hover{
+    opacity: 0.9;
+}
+
+.custom-logo{
+    text-align: center;
+}
+.custom-logo img{
+    margin:0 auto;
+}
+
+
+
